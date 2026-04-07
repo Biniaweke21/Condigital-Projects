@@ -1,0 +1,601 @@
+session_duration,instructor_seniority,class_type,timing,max_capacity,drop_in_rate
+105,14.9,Hot Yoga,Off-Peak,21,74.62
+120,2.0,Barre,Peak,16,63.6
+90,8.8,Hot Yoga,Peak,22,75.03
+120,14.6,Hot Yoga,Off-Peak,10,83.04
+120,8.3,Meditation,Off-Peak,9,71.08
+75,9.8,Meditation,Peak,9,67.42
+90,10.7,Meditation,Peak,10,71.31
+90,7.4,Barre,Off-Peak,21,51.33
+90,9.8,Reformer Pilates,Off-Peak,17,64.24
+120,9.2,Hot Yoga,Peak,9,75.83
+105,13.6,Hot Yoga,Off-Peak,8,76.45
+90,1.6,Hot Yoga,Peak,11,74.11
+120,4.9,Barre,Peak,21,67.8
+75,14.3,Meditation,Peak,8,63.22
+105,13.5,Reformer Pilates,Peak,21,92.2
+75,7.4,Barre,Off-Peak,23,61.85
+105,9.7,Meditation,Off-Peak,21,61.84
+120,4.9,Barre,Peak,10,78.5
+60,3.6,Reformer Pilates,Peak,10,63.16
+105,7.5,Meditation,Peak,16,62.17
+75,5.9,Barre,Peak,13,58.35
+120,9.2,Reformer Pilates,Peak,20,85.53
+105,2.1,Hot Yoga,Off-Peak,9,59.02
+60,14.6,Reformer Pilates,Off-Peak,15,68.44
+60,14.8,Hot Yoga,Off-Peak,9,69.92
+90,10.8,Barre,Off-Peak,11,64.47
+90,8.5,Meditation,Peak,22,67.35
+75,5.3,Meditation,Peak,11,56.75
+105,12.4,Barre,Peak,20,84.25
+105,10.6,Meditation,Peak,19,73.15
+90,3.3,Meditation,Peak,20,55.21
+105,13.8,Hot Yoga,Off-Peak,21,74.08
+105,12.5,Barre,Peak,13,81.88
+60,14.3,Reformer Pilates,Off-Peak,18,67.7
+90,11.2,Hot Yoga,Off-Peak,9,73.23
+120,9.6,Barre,Off-Peak,12,73.25
+90,6.9,Hot Yoga,Off-Peak,9,62.27
+120,14.1,Reformer Pilates,Peak,17,90.86
+60,13.1,Reformer Pilates,Off-Peak,9,71.37
+75,1.6,Barre,Off-Peak,18,47.09
+105,1.4,Reformer Pilates,Off-Peak,22,55.07
+60,6.3,Hot Yoga,Peak,16,64.39
+105,12.3,Reformer Pilates,Peak,16,83.76
+75,14.8,Hot Yoga,Peak,10,84.82
+75,3.1,Hot Yoga,Off-Peak,16,53.5
+60,9.3,Reformer Pilates,Off-Peak,21,60.23
+75,6.3,Barre,Peak,14,62.84
+120,14.6,Meditation,Off-Peak,23,74.0
+75,12.8,Reformer Pilates,Peak,23,81.81
+105,12.7,Hot Yoga,Peak,8,89.72
+105,7.6,Hot Yoga,Off-Peak,11,65.82
+105,6.8,Reformer Pilates,Off-Peak,11,73.37
+105,4.8,Barre,Off-Peak,14,65.63
+120,1.8,Barre,Off-Peak,15,69.5
+90,13.1,Hot Yoga,Peak,24,76.23
+60,12.4,Hot Yoga,Peak,12,75.23
+105,15.0,Barre,Peak,14,90.94
+75,15.0,Meditation,Peak,11,70.35
+105,8.8,Reformer Pilates,Peak,13,91.63
+75,11.8,Hot Yoga,Off-Peak,14,60.34
+75,14.2,Hot Yoga,Peak,12,82.24
+105,12.9,Barre,Peak,10,86.07
+120,4.5,Reformer Pilates,Peak,14,82.37
+75,7.3,Barre,Off-Peak,21,63.24
+75,2.8,Reformer Pilates,Off-Peak,14,54.89
+105,14.4,Reformer Pilates,Off-Peak,12,82.03
+75,9.5,Reformer Pilates,Off-Peak,12,72.28
+75,4.2,Hot Yoga,Peak,9,68.25
+105,10.4,Meditation,Peak,13,80.03
+105,9.7,Barre,Off-Peak,22,65.72
+60,6.0,Meditation,Off-Peak,17,44.47
+120,2.6,Barre,Peak,14,79.9
+120,10.4,Reformer Pilates,Peak,12,88.46
+75,8.3,Hot Yoga,Off-Peak,8,61.34
+120,11.8,Meditation,Off-Peak,20,71.89
+75,8.3,Hot Yoga,Off-Peak,20,56.17
+60,12.9,Barre,Off-Peak,12,58.27
+105,8.7,Hot Yoga,Peak,20,79.02
+105,8.9,Hot Yoga,Peak,11,85.79
+105,13.3,Meditation,Peak,24,74.29
+120,6.6,Reformer Pilates,Off-Peak,10,76.23
+60,2.9,Hot Yoga,Off-Peak,24,40.16
+120,1.4,Reformer Pilates,Peak,18,74.72
+120,11.6,Barre,Peak,11,91.33
+60,9.7,Hot Yoga,Peak,9,69.27
+60,10.9,Meditation,Peak,23,54.93
+60,4.0,Barre,Off-Peak,15,47.05
+60,2.9,Barre,Peak,10,60.55
+105,1.2,Meditation,Peak,16,57.65
+90,5.9,Hot Yoga,Peak,13,65.34
+90,9.3,Hot Yoga,Peak,17,82.91
+60,6.5,Barre,Peak,17,53.44
+90,7.1,Hot Yoga,Peak,20,68.21
+90,13.7,Reformer Pilates,Peak,24,83.88
+60,5.9,Meditation,Off-Peak,16,42.36
+90,8.2,Reformer Pilates,Off-Peak,24,64.4
+120,12.0,Hot Yoga,Off-Peak,16,79.91
+75,6.6,Barre,Off-Peak,16,44.43
+75,9.7,Meditation,Peak,8,61.78
+60,13.1,Hot Yoga,Off-Peak,9,64.23
+105,14.3,Hot Yoga,Off-Peak,23,72.13
+60,3.1,Barre,Peak,8,57.97
+105,14.0,Barre,Peak,17,84.61
+75,7.9,Reformer Pilates,Off-Peak,15,54.89
+60,4.6,Meditation,Off-Peak,18,45.79
+120,7.4,Meditation,Peak,9,74.51
+90,14.7,Barre,Off-Peak,15,67.59
+105,7.9,Reformer Pilates,Peak,15,83.18
+90,5.6,Meditation,Peak,24,59.23
+90,9.9,Barre,Peak,22,75.84
+60,4.4,Hot Yoga,Peak,24,56.09
+90,2.1,Meditation,Off-Peak,20,49.78
+120,2.8,Reformer Pilates,Peak,12,76.65
+90,2.8,Reformer Pilates,Peak,19,69.17
+60,3.1,Reformer Pilates,Off-Peak,8,49.99
+120,2.9,Hot Yoga,Peak,12,75.94
+75,10.0,Meditation,Off-Peak,15,54.04
+90,3.5,Meditation,Off-Peak,20,46.62
+60,5.8,Hot Yoga,Off-Peak,15,50.11
+75,13.6,Meditation,Peak,18,71.65
+75,7.6,Hot Yoga,Off-Peak,8,54.27
+105,10.3,Hot Yoga,Off-Peak,20,65.35
+120,3.4,Hot Yoga,Peak,10,76.94
+90,3.7,Reformer Pilates,Off-Peak,24,53.24
+60,1.6,Meditation,Off-Peak,12,38.78
+105,3.4,Hot Yoga,Off-Peak,15,60.4
+120,4.9,Meditation,Off-Peak,21,52.33
+105,3.5,Reformer Pilates,Off-Peak,11,61.54
+120,2.2,Hot Yoga,Peak,18,61.6
+120,2.7,Barre,Off-Peak,22,54.37
+90,7.5,Reformer Pilates,Off-Peak,14,67.71
+120,3.9,Barre,Peak,18,73.27
+105,6.1,Meditation,Peak,12,69.66
+120,8.0,Meditation,Peak,12,73.09
+90,10.7,Reformer Pilates,Off-Peak,15,71.98
+90,1.6,Meditation,Peak,17,57.19
+105,12.2,Barre,Off-Peak,13,67.53
+75,9.8,Hot Yoga,Off-Peak,22,58.89
+75,2.1,Hot Yoga,Peak,23,59.08
+120,13.2,Hot Yoga,Peak,24,84.24
+60,13.9,Reformer Pilates,Off-Peak,15,72.1
+120,1.9,Meditation,Peak,15,63.98
+105,4.9,Barre,Off-Peak,16,57.01
+105,12.3,Meditation,Peak,9,81.58
+105,11.5,Meditation,Peak,22,81.08
+105,3.6,Meditation,Peak,10,66.24
+105,3.9,Hot Yoga,Off-Peak,24,60.29
+90,6.2,Barre,Peak,11,67.87
+75,7.8,Barre,Off-Peak,11,52.83
+105,9.7,Meditation,Off-Peak,21,61.32
+60,6.2,Hot Yoga,Off-Peak,16,52.2
+60,7.5,Hot Yoga,Off-Peak,16,51.42
+60,11.5,Barre,Peak,17,68.97
+60,1.5,Hot Yoga,Off-Peak,11,43.23
+90,4.5,Hot Yoga,Off-Peak,19,52.54
+60,11.0,Hot Yoga,Peak,15,72.74
+105,13.5,Reformer Pilates,Off-Peak,9,87.41
+120,8.2,Meditation,Peak,20,70.76
+60,8.4,Barre,Off-Peak,23,56.28
+90,2.5,Barre,Peak,9,64.0
+90,7.3,Reformer Pilates,Off-Peak,18,66.09
+60,8.5,Meditation,Peak,17,56.61
+120,4.4,Barre,Off-Peak,22,63.9
+60,4.8,Hot Yoga,Off-Peak,24,46.69
+90,6.3,Barre,Peak,15,69.48
+75,1.3,Hot Yoga,Peak,16,53.97
+105,5.5,Reformer Pilates,Peak,15,72.0
+90,4.0,Hot Yoga,Peak,21,69.17
+60,5.6,Barre,Off-Peak,19,44.62
+105,2.7,Barre,Off-Peak,21,54.95
+60,13.5,Barre,Peak,24,67.96
+60,9.3,Reformer Pilates,Off-Peak,10,69.47
+75,10.5,Reformer Pilates,Peak,14,78.3
+105,12.0,Meditation,Peak,24,71.32
+105,8.0,Barre,Off-Peak,19,61.81
+75,2.2,Hot Yoga,Off-Peak,16,49.25
+90,8.5,Reformer Pilates,Off-Peak,22,62.31
+60,9.2,Barre,Off-Peak,20,51.92
+120,11.4,Barre,Off-Peak,15,74.89
+60,7.0,Reformer Pilates,Off-Peak,21,61.67
+60,2.8,Meditation,Off-Peak,15,38.87
+90,5.0,Reformer Pilates,Peak,21,63.4
+60,6.1,Reformer Pilates,Peak,14,77.24
+75,10.0,Hot Yoga,Peak,19,73.73
+75,9.0,Hot Yoga,Peak,18,77.13
+105,6.0,Meditation,Peak,18,61.67
+120,14.8,Barre,Off-Peak,20,77.31
+60,9.5,Reformer Pilates,Peak,9,76.35
+60,4.3,Meditation,Peak,22,50.8
+90,2.4,Hot Yoga,Peak,22,63.03
+75,3.1,Reformer Pilates,Peak,19,55.75
+120,4.4,Barre,Peak,20,65.75
+105,3.2,Hot Yoga,Peak,18,75.17
+75,3.6,Hot Yoga,Peak,12,69.88
+105,5.0,Hot Yoga,Off-Peak,8,65.37
+90,3.4,Meditation,Off-Peak,10,56.66
+90,13.6,Barre,Peak,14,75.71
+60,2.1,Reformer Pilates,Off-Peak,19,45.37
+120,8.3,Meditation,Off-Peak,22,58.24
+105,6.7,Meditation,Off-Peak,12,56.35
+75,14.8,Meditation,Off-Peak,22,61.79
+90,2.6,Hot Yoga,Peak,15,61.45
+60,6.6,Barre,Off-Peak,17,58.06
+60,14.6,Meditation,Off-Peak,23,55.54
+105,13.1,Reformer Pilates,Off-Peak,15,84.49
+90,12.4,Barre,Peak,8,82.36
+120,4.6,Reformer Pilates,Peak,19,85.16
+90,3.4,Barre,Peak,12,61.83
+105,10.4,Reformer Pilates,Peak,10,93.89
+105,14.0,Hot Yoga,Peak,8,89.86
+90,8.8,Meditation,Peak,11,73.64
+105,9.0,Reformer Pilates,Peak,15,78.24
+90,4.9,Barre,Off-Peak,10,59.07
+75,11.8,Meditation,Off-Peak,17,56.98
+90,3.6,Meditation,Off-Peak,9,49.32
+90,5.5,Barre,Peak,18,67.3
+105,7.0,Reformer Pilates,Peak,17,86.36
+105,8.1,Hot Yoga,Peak,21,72.47
+60,4.4,Hot Yoga,Peak,14,62.85
+60,2.6,Reformer Pilates,Peak,9,58.79
+75,9.5,Meditation,Off-Peak,16,61.79
+60,5.0,Meditation,Off-Peak,23,42.44
+90,9.1,Meditation,Peak,20,72.55
+105,3.2,Meditation,Peak,16,65.59
+60,7.7,Reformer Pilates,Peak,11,71.71
+60,8.5,Meditation,Peak,17,60.12
+75,1.7,Barre,Off-Peak,19,44.9
+75,5.7,Meditation,Peak,24,47.98
+90,2.9,Hot Yoga,Peak,21,64.74
+105,1.9,Meditation,Peak,21,55.93
+75,14.9,Reformer Pilates,Peak,9,81.84
+60,5.5,Hot Yoga,Off-Peak,18,51.6
+105,12.3,Reformer Pilates,Peak,23,84.63
+105,4.6,Reformer Pilates,Peak,13,82.31
+60,10.5,Hot Yoga,Off-Peak,12,55.79
+75,11.6,Reformer Pilates,Off-Peak,11,68.62
+60,9.3,Reformer Pilates,Off-Peak,22,62.75
+105,7.6,Meditation,Peak,11,72.62
+120,6.8,Barre,Peak,17,71.49
+120,5.9,Reformer Pilates,Off-Peak,10,76.88
+90,14.0,Reformer Pilates,Off-Peak,12,84.12
+60,12.6,Reformer Pilates,Off-Peak,13,64.79
+60,14.5,Meditation,Off-Peak,15,59.14
+90,2.7,Barre,Off-Peak,14,50.05
+90,11.2,Hot Yoga,Off-Peak,17,66.45
+90,14.1,Meditation,Peak,13,80.31
+105,3.5,Meditation,Peak,21,62.23
+60,1.9,Barre,Peak,11,59.61
+105,11.4,Barre,Off-Peak,20,70.3
+90,9.0,Meditation,Off-Peak,24,62.77
+60,12.8,Hot Yoga,Off-Peak,14,55.34
+105,3.0,Meditation,Off-Peak,11,53.73
+105,12.1,Barre,Off-Peak,21,64.91
+90,3.8,Hot Yoga,Off-Peak,10,54.64
+60,3.3,Barre,Peak,12,52.12
+90,3.3,Hot Yoga,Peak,23,63.42
+60,12.4,Reformer Pilates,Off-Peak,11,68.11
+120,10.3,Barre,Peak,9,87.56
+75,8.3,Barre,Off-Peak,24,48.86
+75,6.0,Meditation,Peak,21,54.8
+75,13.3,Barre,Off-Peak,20,58.59
+90,6.5,Barre,Off-Peak,19,60.89
+120,12.4,Reformer Pilates,Peak,13,90.92
+60,7.1,Barre,Peak,11,61.4
+105,6.3,Reformer Pilates,Off-Peak,23,68.99
+60,7.5,Reformer Pilates,Off-Peak,20,53.79
+105,5.2,Reformer Pilates,Peak,11,82.68
+60,11.5,Reformer Pilates,Peak,24,77.03
+120,8.0,Hot Yoga,Off-Peak,8,75.56
+105,4.3,Meditation,Peak,24,64.96
+90,13.6,Hot Yoga,Off-Peak,22,60.31
+60,6.4,Barre,Off-Peak,18,46.68
+60,8.6,Hot Yoga,Off-Peak,20,53.64
+105,13.7,Hot Yoga,Off-Peak,8,74.64
+90,9.7,Barre,Peak,24,70.78
+90,2.6,Barre,Peak,13,67.94
+120,14.2,Barre,Peak,11,83.38
+90,9.8,Hot Yoga,Peak,23,67.74
+90,5.7,Hot Yoga,Peak,22,67.49
+90,2.9,Barre,Peak,22,62.39
+75,12.1,Meditation,Peak,13,71.4
+120,9.7,Meditation,Off-Peak,22,65.19
+60,8.5,Reformer Pilates,Peak,21,69.2
+105,13.5,Barre,Peak,18,86.16
+60,12.0,Reformer Pilates,Off-Peak,14,63.74
+120,3.1,Meditation,Peak,16,64.82
+105,5.4,Reformer Pilates,Peak,23,74.73
+120,4.5,Barre,Off-Peak,12,66.75
+90,11.4,Barre,Peak,17,72.67
+105,1.5,Barre,Peak,10,66.17
+90,9.0,Hot Yoga,Peak,20,74.09
+60,11.7,Reformer Pilates,Off-Peak,18,63.98
+60,13.3,Meditation,Peak,24,60.61
+105,5.8,Meditation,Peak,20,58.24
+105,12.5,Meditation,Off-Peak,13,68.04
+120,2.5,Hot Yoga,Peak,24,66.27
+120,12.9,Hot Yoga,Off-Peak,20,81.28
+90,2.8,Barre,Off-Peak,17,51.17
+105,6.6,Meditation,Peak,10,66.42
+60,12.2,Hot Yoga,Off-Peak,21,57.65
+120,3.1,Barre,Off-Peak,12,68.93
+120,4.2,Meditation,Peak,12,73.02
+60,11.1,Reformer Pilates,Off-Peak,24,60.93
+120,11.1,Barre,Off-Peak,17,68.55
+90,10.0,Hot Yoga,Peak,12,83.69
+105,10.7,Hot Yoga,Peak,11,80.66
+60,8.6,Barre,Peak,13,67.44
+105,4.5,Barre,Off-Peak,11,60.55
+120,5.8,Hot Yoga,Peak,14,82.45
+120,3.5,Reformer Pilates,Off-Peak,14,75.88
+60,13.7,Meditation,Off-Peak,10,60.14
+90,9.2,Reformer Pilates,Off-Peak,8,75.62
+75,6.6,Barre,Off-Peak,11,55.61
+60,7.5,Reformer Pilates,Off-Peak,13,57.31
+75,14.3,Hot Yoga,Off-Peak,16,68.1
+75,3.1,Barre,Off-Peak,21,45.39
+90,9.2,Meditation,Peak,19,76.07
+75,8.1,Hot Yoga,Peak,11,66.28
+75,9.6,Hot Yoga,Off-Peak,19,63.31
+90,1.3,Meditation,Off-Peak,17,47.22
+75,13.2,Meditation,Peak,14,70.62
+75,14.0,Reformer Pilates,Off-Peak,10,80.42
+75,8.9,Barre,Peak,21,66.64
+60,10.8,Meditation,Peak,17,57.86
+60,13.9,Meditation,Peak,23,63.82
+60,10.9,Barre,Off-Peak,23,52.42
+90,3.1,Meditation,Off-Peak,17,49.86
+120,9.1,Meditation,Peak,20,77.9
+75,9.5,Reformer Pilates,Peak,13,73.11
+75,6.9,Hot Yoga,Peak,19,70.03
+90,11.3,Hot Yoga,Peak,16,76.53
+75,14.1,Hot Yoga,Peak,20,77.42
+60,14.0,Hot Yoga,Off-Peak,11,67.07
+120,7.3,Meditation,Peak,18,74.22
+105,2.6,Barre,Off-Peak,18,55.76
+75,14.8,Barre,Peak,11,76.35
+60,12.7,Reformer Pilates,Off-Peak,8,67.77
+105,2.7,Reformer Pilates,Off-Peak,14,71.21
+120,13.9,Meditation,Off-Peak,13,71.19
+105,13.2,Barre,Off-Peak,22,67.62
+60,8.3,Barre,Off-Peak,18,48.2
+105,9.3,Hot Yoga,Off-Peak,22,67.19
+90,6.6,Meditation,Peak,23,54.6
+105,1.8,Meditation,Off-Peak,14,46.19
+75,5.7,Hot Yoga,Peak,17,63.21
+75,12.2,Meditation,Off-Peak,19,51.05
+90,1.1,Meditation,Off-Peak,21,38.42
+60,5.7,Reformer Pilates,Peak,12,61.63
+75,6.6,Barre,Off-Peak,12,52.21
+120,8.5,Meditation,Peak,10,80.67
+75,13.9,Reformer Pilates,Peak,12,87.37
+75,5.8,Barre,Peak,24,67.28
+60,5.9,Hot Yoga,Peak,19,66.78
+105,11.3,Reformer Pilates,Off-Peak,16,80.2
+75,7.3,Reformer Pilates,Off-Peak,8,69.36
+90,4.1,Barre,Peak,11,67.27
+105,7.3,Hot Yoga,Off-Peak,17,67.73
+120,3.0,Reformer Pilates,Off-Peak,14,77.67
+60,3.5,Meditation,Peak,8,54.53
+120,8.0,Meditation,Off-Peak,24,66.01
+105,6.9,Meditation,Peak,9,67.51
+105,13.8,Hot Yoga,Peak,18,82.34
+105,6.1,Reformer Pilates,Off-Peak,16,70.5
+120,9.1,Meditation,Off-Peak,14,67.65
+105,9.9,Hot Yoga,Off-Peak,24,64.27
+120,1.2,Meditation,Peak,24,70.83
+105,10.3,Barre,Peak,9,82.04
+90,3.5,Reformer Pilates,Off-Peak,13,60.28
+105,14.5,Reformer Pilates,Off-Peak,21,80.46
+120,3.1,Hot Yoga,Off-Peak,13,65.55
+75,6.8,Hot Yoga,Off-Peak,9,59.85
+105,2.2,Reformer Pilates,Peak,8,70.23
+75,15.0,Meditation,Off-Peak,17,66.37
+90,8.0,Meditation,Peak,12,72.6
+60,9.3,Barre,Peak,9,72.23
+90,1.9,Meditation,Off-Peak,23,44.95
+105,11.5,Hot Yoga,Off-Peak,9,77.8
+75,3.9,Hot Yoga,Off-Peak,17,48.09
+75,13.6,Meditation,Peak,9,75.63
+120,3.9,Hot Yoga,Off-Peak,23,63.66
+75,3.7,Reformer Pilates,Off-Peak,23,52.01
+120,1.5,Reformer Pilates,Peak,14,81.11
+60,7.6,Meditation,Off-Peak,19,48.41
+105,8.9,Reformer Pilates,Peak,22,81.29
+120,1.9,Reformer Pilates,Off-Peak,15,69.6
+60,11.9,Barre,Peak,13,64.52
+75,7.3,Barre,Off-Peak,17,59.62
+75,8.3,Reformer Pilates,Off-Peak,10,62.35
+60,7.2,Meditation,Peak,24,49.38
+75,6.6,Barre,Peak,14,65.05
+60,8.8,Hot Yoga,Off-Peak,11,61.26
+120,3.2,Hot Yoga,Peak,21,76.86
+120,3.5,Hot Yoga,Peak,22,72.43
+60,13.1,Meditation,Peak,15,67.74
+120,14.2,Reformer Pilates,Peak,22,86.74
+120,6.2,Hot Yoga,Off-Peak,21,64.02
+120,4.8,Meditation,Off-Peak,16,57.0
+90,10.0,Barre,Peak,15,79.01
+105,6.7,Reformer Pilates,Peak,24,79.57
+75,1.4,Barre,Peak,9,59.74
+90,3.2,Meditation,Peak,10,61.93
+120,11.0,Hot Yoga,Off-Peak,15,82.77
+60,10.2,Hot Yoga,Off-Peak,19,55.02
+120,1.4,Meditation,Peak,8,62.64
+105,4.1,Hot Yoga,Peak,17,75.2
+120,4.2,Reformer Pilates,Peak,10,84.03
+60,10.4,Meditation,Off-Peak,13,55.21
+105,1.3,Barre,Peak,14,65.67
+120,2.5,Meditation,Off-Peak,18,52.2
+105,12.2,Reformer Pilates,Peak,12,91.61
+75,3.5,Reformer Pilates,Off-Peak,18,55.59
+75,10.1,Meditation,Peak,19,63.79
+120,4.3,Meditation,Off-Peak,17,65.12
+105,2.4,Hot Yoga,Peak,15,64.71
+60,4.4,Reformer Pilates,Peak,16,64.34
+120,11.1,Meditation,Peak,11,77.97
+75,13.0,Meditation,Off-Peak,12,49.84
+75,12.6,Reformer Pilates,Peak,15,80.2
+120,6.6,Meditation,Off-Peak,16,62.62
+105,10.4,Hot Yoga,Off-Peak,22,70.79
+75,3.9,Reformer Pilates,Peak,22,63.68
+105,5.1,Hot Yoga,Peak,23,63.99
+75,13.5,Hot Yoga,Peak,21,71.06
+75,1.2,Hot Yoga,Off-Peak,15,53.57
+90,2.2,Hot Yoga,Peak,17,60.15
+75,3.9,Reformer Pilates,Off-Peak,13,64.48
+60,1.4,Hot Yoga,Off-Peak,19,46.7
+120,3.5,Hot Yoga,Peak,9,76.38
+120,9.2,Meditation,Peak,14,74.28
+105,6.9,Reformer Pilates,Peak,23,81.84
+75,13.5,Reformer Pilates,Peak,10,82.79
+60,12.4,Barre,Peak,20,60.42
+105,5.8,Reformer Pilates,Peak,10,83.45
+90,4.6,Reformer Pilates,Off-Peak,18,63.37
+105,6.3,Barre,Off-Peak,15,67.5
+105,9.3,Reformer Pilates,Off-Peak,13,76.65
+75,4.8,Reformer Pilates,Peak,8,69.3
+90,9.7,Reformer Pilates,Off-Peak,8,78.43
+105,6.7,Reformer Pilates,Off-Peak,15,76.02
+60,8.7,Barre,Off-Peak,12,55.18
+60,7.1,Reformer Pilates,Off-Peak,23,54.69
+120,5.1,Reformer Pilates,Off-Peak,18,66.16
+90,14.3,Barre,Peak,12,79.22
+90,11.7,Meditation,Peak,11,76.19
+120,3.0,Hot Yoga,Off-Peak,13,63.07
+105,13.2,Meditation,Off-Peak,21,60.07
+90,7.8,Barre,Off-Peak,16,74.28
+60,13.5,Hot Yoga,Peak,19,64.8
+60,12.2,Barre,Peak,18,76.13
+75,7.0,Barre,Off-Peak,21,51.37
+90,1.3,Reformer Pilates,Peak,23,64.41
+105,4.8,Hot Yoga,Peak,8,72.81
+120,8.6,Reformer Pilates,Off-Peak,20,79.03
+120,9.9,Hot Yoga,Peak,20,77.09
+105,4.6,Barre,Peak,9,65.44
+75,3.0,Barre,Off-Peak,11,57.04
+120,12.7,Meditation,Peak,13,79.63
+90,14.8,Hot Yoga,Peak,12,87.38
+75,8.4,Reformer Pilates,Off-Peak,10,61.76
+90,3.4,Meditation,Peak,8,64.73
+60,4.8,Meditation,Peak,11,60.53
+75,1.3,Meditation,Off-Peak,9,41.74
+120,13.8,Reformer Pilates,Off-Peak,12,79.17
+75,2.6,Meditation,Off-Peak,10,52.16
+75,9.1,Reformer Pilates,Peak,16,78.45
+75,4.8,Meditation,Off-Peak,13,45.61
+75,8.8,Reformer Pilates,Peak,13,74.63
+90,10.1,Barre,Off-Peak,19,58.11
+60,12.6,Barre,Peak,18,73.38
+105,3.9,Barre,Off-Peak,9,59.61
+75,1.2,Barre,Off-Peak,22,37.83
+120,2.9,Barre,Off-Peak,19,61.6
+75,13.6,Meditation,Off-Peak,19,54.86
+120,13.2,Meditation,Peak,16,78.28
+90,9.4,Meditation,Off-Peak,9,58.78
+120,9.4,Reformer Pilates,Off-Peak,10,81.45
+105,10.3,Reformer Pilates,Peak,19,78.83
+60,3.5,Reformer Pilates,Off-Peak,23,54.59
+120,13.8,Reformer Pilates,Peak,8,101.21
+120,6.9,Barre,Off-Peak,10,68.89
+60,6.4,Barre,Off-Peak,9,48.39
+105,8.3,Barre,Off-Peak,16,65.19
+75,1.7,Hot Yoga,Peak,22,59.85
+120,3.3,Meditation,Off-Peak,18,59.73
+60,11.3,Reformer Pilates,Off-Peak,23,64.98
+90,2.2,Reformer Pilates,Off-Peak,24,53.78
+60,9.4,Barre,Peak,12,53.6
+90,4.4,Reformer Pilates,Peak,19,75.99
+105,6.5,Reformer Pilates,Off-Peak,18,68.38
+75,5.0,Meditation,Peak,22,56.86
+60,6.0,Barre,Off-Peak,10,57.68
+120,11.1,Meditation,Off-Peak,8,82.19
+105,5.2,Hot Yoga,Off-Peak,23,57.5
+60,8.9,Hot Yoga,Off-Peak,9,58.29
+120,7.7,Hot Yoga,Off-Peak,9,79.42
+60,10.3,Barre,Off-Peak,10,54.07
+90,14.1,Reformer Pilates,Off-Peak,15,74.82
+60,11.3,Barre,Peak,22,61.8
+60,4.0,Barre,Peak,14,56.29
+60,1.4,Reformer Pilates,Peak,13,59.02
+105,4.7,Meditation,Peak,16,62.77
+60,9.3,Hot Yoga,Peak,8,64.89
+120,1.7,Meditation,Peak,15,68.8
+90,7.9,Hot Yoga,Peak,10,80.2
+90,9.4,Barre,Off-Peak,11,70.63
+60,5.7,Hot Yoga,Off-Peak,22,45.83
+105,11.8,Barre,Off-Peak,13,75.41
+105,2.5,Meditation,Off-Peak,22,50.4
+120,2.1,Barre,Peak,10,70.87
+60,11.2,Meditation,Peak,21,62.34
+90,7.9,Reformer Pilates,Off-Peak,21,62.98
+105,10.6,Reformer Pilates,Off-Peak,11,76.5
+60,7.1,Reformer Pilates,Peak,19,60.54
+105,4.4,Barre,Off-Peak,24,54.64
+105,12.5,Reformer Pilates,Off-Peak,14,80.67
+90,12.2,Hot Yoga,Off-Peak,16,75.18
+75,10.7,Meditation,Off-Peak,10,56.14
+120,4.8,Meditation,Peak,20,64.05
+120,9.3,Hot Yoga,Off-Peak,22,77.14
+90,6.1,Barre,Off-Peak,8,58.93
+105,2.3,Barre,Peak,13,60.76
+60,13.8,Meditation,Peak,9,68.63
+105,2.9,Reformer Pilates,Off-Peak,21,61.15
+90,14.3,Barre,Peak,13,90.45
+120,7.2,Barre,Off-Peak,21,68.3
+105,3.6,Hot Yoga,Off-Peak,11,61.91
+120,8.6,Hot Yoga,Peak,15,79.2
+60,13.2,Reformer Pilates,Off-Peak,10,70.12
+120,11.3,Barre,Off-Peak,21,78.38
+120,12.3,Barre,Off-Peak,24,74.1
+75,10.2,Hot Yoga,Off-Peak,15,58.41
+75,10.7,Barre,Peak,21,70.31
+75,12.9,Meditation,Peak,13,69.46
+120,4.5,Hot Yoga,Off-Peak,23,65.34
+90,7.9,Reformer Pilates,Peak,21,74.03
+120,4.1,Hot Yoga,Off-Peak,10,66.64
+90,14.8,Barre,Off-Peak,17,68.73
+90,14.2,Reformer Pilates,Off-Peak,16,80.67
+75,1.6,Hot Yoga,Off-Peak,20,45.43
+105,10.9,Meditation,Off-Peak,14,63.41
+60,14.0,Meditation,Peak,21,59.83
+75,3.5,Hot Yoga,Off-Peak,16,53.17
+75,9.0,Meditation,Peak,22,61.45
+105,13.8,Meditation,Peak,21,75.0
+60,1.5,Meditation,Off-Peak,13,35.21
+120,10.8,Reformer Pilates,Off-Peak,11,90.3
+120,5.2,Meditation,Off-Peak,15,53.28
+75,13.9,Meditation,Off-Peak,24,58.72
+60,14.6,Meditation,Off-Peak,16,61.67
+75,14.2,Reformer Pilates,Peak,8,72.05
+90,7.6,Hot Yoga,Off-Peak,21,63.18
+75,13.1,Barre,Off-Peak,18,62.07
+75,12.8,Meditation,Peak,10,71.72
+120,5.5,Hot Yoga,Peak,16,76.56
+120,12.6,Meditation,Off-Peak,21,73.8
+120,1.5,Reformer Pilates,Peak,16,78.3
+90,9.3,Hot Yoga,Off-Peak,11,67.08
+120,4.2,Reformer Pilates,Peak,11,79.3
+60,2.7,Meditation,Peak,15,56.58
+105,2.1,Meditation,Off-Peak,9,54.09
+60,10.7,Reformer Pilates,Peak,16,81.81
+60,5.8,Barre,Peak,21,64.01
+120,11.1,Reformer Pilates,Peak,16,84.14
+105,1.9,Meditation,Peak,23,55.53
+105,5.4,Reformer Pilates,Peak,24,70.85
+105,8.6,Barre,Peak,23,73.01
+90,12.1,Reformer Pilates,Off-Peak,19,73.3
+120,5.5,Barre,Off-Peak,10,69.17
+105,9.8,Barre,Peak,18,81.22
+90,13.4,Reformer Pilates,Off-Peak,21,79.67
+75,9.6,Reformer Pilates,Off-Peak,12,70.97
+75,4.3,Hot Yoga,Off-Peak,23,47.51
+90,1.3,Meditation,Peak,12,54.02
+90,13.2,Barre,Off-Peak,10,70.81
+120,1.3,Hot Yoga,Peak,19,72.05
+120,13.2,Reformer Pilates,Off-Peak,8,86.87
+75,8.4,Meditation,Peak,16,56.32
+105,14.1,Hot Yoga,Peak,16,88.98
+75,12.2,Barre,Off-Peak,11,62.83
+105,15.0,Hot Yoga,Off-Peak,10,78.31
+105,5.9,Barre,Peak,24,68.53
+120,11.7,Reformer Pilates,Off-Peak,9,83.99
+60,6.6,Meditation,Off-Peak,8,46.23
+60,7.7,Meditation,Off-Peak,15,41.43
+90,9.8,Meditation,Peak,20,66.25
+120,13.2,Reformer Pilates,Peak,22,94.81
+105,14.8,Barre,Off-Peak,15,76.76
+60,11.8,Reformer Pilates,Off-Peak,19,66.89
+105,6.8,Meditation,Off-Peak,19,54.19
+60,6.9,Reformer Pilates,Peak,21,59.84
+60,11.3,Reformer Pilates,Peak,22,70.17
+60,4.3,Reformer Pilates,Off-Peak,22,48.19
+120,2.5,Barre,Off-Peak,16,59.31
+75,6.0,Hot Yoga,Off-Peak,15,56.35
+105,5.0,Hot Yoga,Off-Peak,13,61.79
+120,5.1,Reformer Pilates,Off-Peak,11,69.25
+120,4.3,Hot Yoga,Off-Peak,14,64.61
+120,1.6,Hot Yoga,Peak,11,75.36
+120,1.3,Reformer Pilates,Off-Peak,19,68.04
+120,14.8,Reformer Pilates,Peak,20,97.85
